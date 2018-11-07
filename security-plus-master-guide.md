@@ -104,7 +104,11 @@ IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, W
 
 #### Additional Resources
 [difference between an access point and a router](https://www.ligowave.com/difference-between-access-point-and-router)
+
+
 [Wireless Standards](https://www.juniper.net/documentation/en_US/junos-space-apps/network-director3.2/topics/concept/wireless-80211.html)
+
+
 [Nmap cheet sheet](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf)
 
 
