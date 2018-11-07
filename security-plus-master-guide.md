@@ -97,11 +97,15 @@ Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, s
 - I would reccomend scanning through these chapters as we have covered quite a bit of 18 and 19 already. But make sure you understand the main topics as opposed to reading the chapters from frotn to back. Make sure to understand and practice the tools (which is the fun part anyways!)
 
 #### Assessments
+https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
 #### Topics/Keywords
-IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, WPA, WPA2, LEAP, PEAP, TLS, SSID, MAC filtering, Captive Portal, War Driving, War Chalking, Replay attack, Evil Twin, Rogue Access Point, Risk Assessment, Code Review Security Assessment, Penetration Test, Port Scanner, Vulnerability Assessment, Auditing in Windows, Protocol Analyzer, Nmap, Netstat, Taskkill, whoami, Logging, Auditing
+IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, WPA, WPA2, LEAP, PEAP, TLS, SSID, MAC filtering, Captive Portal, War Driving, War Chalking, Replay attack, Evil Twin, Rogue Access Point, Risk Assessment, Code Review Security Assessment, Penetration Test, Port Scanner, Vulnerability Assessment, Auditing in Windows, Protocol Analyzer, Nmap, Netstat, Taskkill, whoami, Logging, Auditing, NIDS, HIDS, RAID, 
 
 #### Additional Resources
+[difference between an access point and a router](https://www.ligowave.com/difference-between-access-point-and-router)
+[Wireless Standards](https://www.juniper.net/documentation/en_US/junos-space-apps/network-director3.2/topics/concept/wireless-80211.html)
+[Nmap cheet sheet](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf)
 
 
 
