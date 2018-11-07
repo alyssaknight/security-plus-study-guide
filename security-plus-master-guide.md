@@ -12,7 +12,7 @@
 #### Assessment:
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz
 
-#### Keywords:
+#### Topics/Keywords:
 CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryption, Steganography, Hashing, Fault Tolerance, Patching, Differentiating Accountability, Authentication & Authorization, Identification, Least Privilege, Separation and Rotation of Duties, Layered Security, Defense in Depth, Due Care & Due Dilligence, Vulnerability, zero-day, Exploit, Threat Actors, Types of Actors, Virtualization, Hypervisor, Virtual-Box, iso file
 
 #### Additional Resources:
@@ -27,8 +27,6 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
 
 
 
-
-
 ### Week 2 (10/15/18)
 
 #### Read
@@ -39,7 +37,7 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz?ogsrc=32
 
 
-#### Keywords
+#### Topics/Keywords
 Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server, DNS round-robin, coaxial cable, twisted pair cable, Straight-through cables, crossover cables, fiber-optic cables, IP address, subnet mask, default gateway, loopback address, TCP, TCP/IP, UDP, ICMP, ARP, HTTP/HTTPS, DNS, SMTP, FTP, MAil Protocols, SSH, Telnet, SFTP, LDAP, NetBios, IPV4 & IPv6
 
 #### Additional Resources
@@ -62,7 +60,7 @@ If you havent finished the reading from last week, I highly recommend doing that
 #### Assessment
 https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
-#### Keywords
+#### Topics/Keywords
 TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, service pack, Antivirus, Host-based firewall, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, Types of Networks (LAN, WLAN, WAN), DMZ, Extranet, NAT, Web Application firewall, URL filter, social engineering, phishing, spear-phishing, shoulder surfing, dumpster diving, tailgating, whaling, vishing, Denial of Service (DoS) vs. Distributed Denial of Services (DDos), spoofing, sniffing, MiTM Attack, Arp Spoofing, DNS Poisoning, Domain Hijjacking, Port scanning attacks, client-side attacks, dictionary attack, brute-forcing attack, birthday attack, rainbow attack, sql injection, application attacks, cross-site scripting, command injection  
 
 #### Additional Resources
@@ -84,9 +82,26 @@ Professor Messer section 1.2 - attack types
 #### Assessments
 https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
-#### Keywords
+#### Topics/Keywords
 Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
 
 #### Additional Resources 
 [Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
+
+### Week 5 - 11/5/18
+
+#### Reading
+- Chapter 9 (Wireless Networking and Security)
+- Chapter 18 (Security assessment and audits)
+- CHapter 19 (Understanding Monitoring and Auditing)
+- I would reccomend scanning through these chapters as we have covered quite a bit of 18 and 19 already. But make sure you understand the main topics as opposed to reading the chapters from frotn to back. Make sure to understand and practice the tools (which is the fun part anyways!)
+
+#### Assessments
+
+#### Topics/Keywords
+IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, WPA, WPA2, LEAP, PEAP, TLS, SSID, MAC filtering, Captive Portal, War Driving, War Chalking, Replay attack, Evil Twin, Rogue Access Point, Risk Assessment, Code Review Security Assessment, Penetration Test, Port Scanner, Vulnerability Assessment, Auditing in Windows, Protocol Analyzer, Nmap, Netstat, Taskkill, whoami, Logging, Auditing
+
+#### Additional Resources
+
+
 
