@@ -1,6 +1,6 @@
 ## Security + Study Guide
 
-### Week 1 (10/8/18)
+### Week 1 - Basics (10/8/18)
 
 #### Read:
   - The Preface
@@ -27,7 +27,7 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
 
 
 
-### Week 2 (10/15/18)
+### Week 2 Networking - (10/15/18)
 
 #### Read
 - Chapter 1 (Networking Basics and Terminology)
@@ -49,8 +49,7 @@ Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server
 
 
 
-
-### Week 3 (10/22/18)
+### Week 3 - Cyber Attacks (10/22/18)
 If you havent finished the reading from last week, I highly recommend doing that before moving on to this reading. Update your notes with keywords from the reading and from the in class lectures and labs. 
 
 #### Read
@@ -73,11 +72,12 @@ TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Prot
 Professor Messer section 1.2 - attack types 
 
 
-### Week 4 - 10/29/18 Securing Systems 
+### Week 4 - Securing Systems (10/29/18)
 
 #### Read
 - Chapter 5 (System Security Threats)
 - Chapter 6 (Mitigating Security Threats)
+- Chapter 11 (Access Controls)
 
 #### Assessments
 https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
@@ -88,7 +88,7 @@ Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, s
 #### Additional Resources 
 [Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
 
-### Week 5 - 11/5/18
+### Week 5  Wireless Security, Assessments, Audits & Monitoring - 11/5/18
 
 #### Reading
 - Chapter 9 (Wireless Networking and Security)
@@ -110,6 +110,32 @@ IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, W
 
 
 [Nmap cheet sheet](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf)
+
+### Week 6 - Cryptography (11/12/18)
+
+#### Read
+- Chapter 12 (Introduction to Cryptography)
+- Chapter 13 (Managing a Public Key Infrastructure)
+- Chapter 10 (Authentication)
+
+#### Assessment
+
+
+
+### Week 7 - Policies & Risk (11/19/18)
+
+#### Read
+- Chapter 3 (Security Policies and Standards)
+- Chapter 15 (Risk Analysis)
+- Chapter 16 (Disaster Recovery and Business Continuity)
+- Chapter 17 ( Introduction to Computer Forensics and Incident Response)
+
+#### Assessment
+
+
+
+
+
 
 
 
