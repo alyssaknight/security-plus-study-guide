@@ -119,7 +119,7 @@ IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, W
 - Chapter 10 (Authentication)
 
 #### Assessment
-
+https://drive.google.com/drive/u/0/folders/1xipVPBpC-Dqnsn2sBsumN4fVwdZvihwI?ogsrc=32
 
 
 ### Week 7 - Policies & Risk (11/19/18)
@@ -131,6 +131,16 @@ IEEE, 802.11, Channels, Frequency, Wireless, Wi-Fi, Access Point, Router, WEP, W
 - Chapter 17 ( Introduction to Computer Forensics and Incident Response)
 
 #### Assessment
+https://drive.google.com/drive/u/0/folders/1xipVPBpC-Dqnsn2sBsumN4fVwdZvihwI?ogsrc=32
+
+#### Other Resources
+
+I will continue to update this of resources but for the moment:
+- There is a 100 question practice test in the same folder
+- There is a week 8 Practice test for more practice
+- There is a PDF of practice tests and answers also in the folder
+
+
 
 
 
